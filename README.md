@@ -31,7 +31,7 @@ Ce notebook Python automatise la collecte de données sur les cryptomonnaies à 
 
 ## 📎 Exemple de graphique généré
 
-![Graphique BTC](./example_plot.png)
+![Graphique BTC](https://raw.githubusercontent.com/FIKRI-Mehdi/crypto-price-tracker-api/main/BTC%20Price.png)
 
 ---
 
