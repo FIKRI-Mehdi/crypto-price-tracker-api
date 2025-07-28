@@ -15,15 +15,15 @@ Ce notebook Python automatise la collecte de données sur les cryptomonnaies à 
 
 Étapes du projet :
 
-Connexion à l’API CoinMarketCap via la bibliothèque requests
+Connexion à l’API CoinMarketCap via la bibliothèque requests.
 
-Extraction des données pour BTC et ETH toutes les minutes
+Extraction des données pour BTC et ETH toutes les minutes.
 
-Stockage des données dans un fichier .csv pour conservation historique
+Stockage des données dans un fichier .csv pour conservation historique.
 
-Structuration des données avec pandas : nettoyage, normalisation, horodatage
+Structuration des données avec pandas : nettoyage, normalisation, horodatage.
 
-Visualisation dynamique avec seaborn pour identifier les tendances
+Visualisation dynamique avec seaborn pour identifier les tendances.
 
 ✅ Résultats
 ⏱️ Collecte automatisée : les données sont récupérées toutes les minutes via une boucle Python.
@@ -52,14 +52,14 @@ Une fois les données collectées et structurées, elles sont importées dans Po
 
 Éléments du dashboard :
 
-Graphiques de suivi du prix de BTC et ETH mis à jour toutes les 5 minutes
+Graphiques de suivi du prix de BTC et ETH mis à jour toutes les 5 minutes.
 
 Filtres dynamiques sur les symboles (BTC, ETH, etc.)
 
-Personnalisation du design pour un rendu type Figma (fonds, bordures, ombres)
+Personnalisation du design pour un rendu type Figma (fonds, bordures, ombres).
 
-Formatage temporel des horodatages à la minute près
+Formatage temporel des horodatages à la minute près.
 
-Cartes de résumé avec le dernier prix connu par actif
+Cartes de résumé avec le dernier prix connu par actif.
 
 Objectif : offrir une interface claire, moderne et réactive pour explorer visuellement les tendances de prix des cryptomonnaies.
